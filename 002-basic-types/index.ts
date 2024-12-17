@@ -1,0 +1,10 @@
+let userName: string = "ali";
+let age: number = 25;
+let isOld = false;
+let nullType: null = null;
+let undefinedType: undefined = undefined;
+let mySymbol: symbol = Symbol("my symbol");
+let anyType: any = "could br any type";
+let unknownType: unknown;
+let voidType: void;
+let neverType: never;
